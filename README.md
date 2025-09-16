@@ -63,6 +63,8 @@ https://drive.google.com/file/d/1zDWSUMNUzy0xEp4GqM9LRw5p_wswhzOL/view?usp=shari
 
 ### DEMO SCREENSHOTS
 
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/14851456-f028-4b58-bac8-9adf4a1f31d4" />
+<img width="1919" height="1095" alt="image" src="https://github.com/user-attachments/assets/e8bc1536-912b-4563-be90-09b00c14a48f" />
 <img width="1919" height="1090" alt="image" src="https://github.com/user-attachments/assets/0845c4cd-826a-4ff2-a778-eb4ac441a871" />
 <img width="1919" height="1095" alt="image" src="https://github.com/user-attachments/assets/dffc0997-888c-4baa-81fd-fef6a324adba" />
 <img width="1916" height="1085" alt="image" src="https://github.com/user-attachments/assets/1cbe42f3-19d9-41b7-be2c-6dc2f3b0b68d" />

@@ -1,4 +1,4 @@
-## RN Classes App (Expo + TypeScript)
+## Assignment
 
 Simple two-screen app showcasing class browsing with filters and optimistic booking, and a profile screen with editable name saved locally.
 

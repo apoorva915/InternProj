@@ -6,7 +6,7 @@ import { useProfile } from '@/state/useProfile';
 
 export default function ProfileScreen() {
   const { profile, loading, updateName, resetProfile } = useProfile();
-  const { name: themeName, setTheme } = useTheme();
+  const { name: themeName, setTheme, colors } = useTheme();
   const [editOpen, setEditOpen] = useState(false);
   const [nameDraft, setNameDraft] = useState('');
 
@@ -41,7 +41,7 @@ export default function ProfileScreen() {
         </View>
         <Card>
           <View style={{ gap: 8 }}>
-            <Text style={{ color: '#0b1722', fontSize: 18, fontWeight: '800' }}>{profile.name}</Text>
+            <Text style={{ color: colors.text, fontSize: 18, fontWeight: '800' }}>{profile.name}</Text>
             <Meta>{profile.phone}</Meta>
             <Meta>Credits: {profile.credits}</Meta>
             <Meta>City: {profile.city}</Meta>

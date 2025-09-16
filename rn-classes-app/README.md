@@ -4,15 +4,19 @@ Simple two-screen app showcasing class browsing with filters and optimistic book
 
 ### Setup
 
-1. Install dependencies
+1. Navigate to the project directory
+```bash
+cd rn-classes-app
+```
+2. Install dependencies
 ```bash
 npm install
 ```
-2. Start the app
+3. Start the app
 ```bash
 npx expo start
 ```
-3. Run on device/emulator
+4. Run on device/emulator
 ```bash
 # Android
 npx expo start --android

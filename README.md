@@ -57,3 +57,27 @@ npx expo start --web
 - Modular UI primitives (`Card`, `Chip`, `Hero`) and simple theme tokens
 - Clear empty, loading, and error/success feedback states
 
+### DEMO VIDEO
+
+https://drive.google.com/file/d/1zDWSUMNUzy0xEp4GqM9LRw5p_wswhzOL/view?usp=sharing
+
+### DEMO SCREENSHOTS
+
+<img width="1919" height="1090" alt="image" src="https://github.com/user-attachments/assets/0845c4cd-826a-4ff2-a778-eb4ac441a871" />
+<img width="1919" height="1095" alt="image" src="https://github.com/user-attachments/assets/dffc0997-888c-4baa-81fd-fef6a324adba" />
+<img width="1916" height="1085" alt="image" src="https://github.com/user-attachments/assets/1cbe42f3-19d9-41b7-be2c-6dc2f3b0b68d" />
+<img width="1919" height="1089" alt="image" src="https://github.com/user-attachments/assets/21956ed6-5306-431b-9afd-89fcb037d57d" />
+<img width="1919" height="1098" alt="image" src="https://github.com/user-attachments/assets/0681e2e0-5396-4c7a-be6f-1c8f975c8560" />
+<img width="1919" height="1089" alt="image" src="https://github.com/user-attachments/assets/d707c041-b07f-423c-8a8c-4dcb610f4b59" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f12093e7-daf5-4507-861b-dac83b76756e" />
+<img width="1919" height="1085" alt="image" src="https://github.com/user-attachments/assets/080f88b2-77d9-42b0-a0d7-383d057b94c9" />
+<img width="1919" height="1091" alt="image" src="https://github.com/user-attachments/assets/71a6a1fc-52e6-4311-934d-89bdfd3c8103" />
+<img width="1919" height="1091" alt="image" src="https://github.com/user-attachments/assets/9325a234-6ef1-43ec-86c6-7b9e946abfac" />
+<img width="1919" height="1088" alt="image" src="https://github.com/user-attachments/assets/305be258-7103-492d-b1cc-b628aa69f7e5" />
+
+
+
+
+
+
+
